@@ -1,6 +1,6 @@
 # Lecture 5 Demo
 This is a repo to demo git for CS193!
-this is also a demo
+
 I'm demoing it right now! :)
 
 What's up
